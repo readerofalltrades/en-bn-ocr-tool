@@ -1,4 +1,3 @@
-```markdown
 # en-bn-ocr-tool
 > Turns Bengali and English images into structured Markdown notes. Tesseract under the hood, Obsidian in mind.
 
@@ -117,4 +116,3 @@ Files are saved to `OCR_Notes/` by default, or to `<vault>/OCR_Notes/` if an Obs
 ## License
 
 MIT
-```
